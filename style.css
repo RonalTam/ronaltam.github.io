@@ -10,12 +10,12 @@ body, h1,h2,h3,h4,h5,h6, ul, li {
     }
 .bg-slider {
     background-color: #6610f2;
-    background-image: url(image/hero-bottom-shape-2.svg);
+    background-image: url(hero-bottom-shape-2.svg);
     background-repeat: no-repeat;
     background-position: center bottom;
 }
 .bg-new2 {
-    background-image: url(/project02/image/about-bg-shape.svg);
+    background-image: url(about-bg-shape.svg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -343,7 +343,7 @@ body, h1,h2,h3,h4,h5,h6, ul, li {
 #new4 {
     position: relative;
     padding: 100px 0;
-    background-image: url(/project02/image/cta-bg.jpg) !important;
+    background-image: url(cta-bg.jpg) !important;
     background-repeat: no-repeat;
     background-size: cover !important;
     background-position: 50% 50% !important;
