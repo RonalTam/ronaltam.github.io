@@ -10,7 +10,7 @@ body, h1,h2,h3,h4,h5,h6, ul, li {
     }
 .bg-slider {
     background-color: #6610f2;
-    background-image: url(/hero-bottom-shape-2.svg);
+    background-image: url(hero-bottom-shape-2.svg);
     background-repeat: no-repeat;
     background-position: center bottom;
 }
